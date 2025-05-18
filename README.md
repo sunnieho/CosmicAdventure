@@ -1,4 +1,4 @@
-![Game Screenshot](images/game.png)
+![Game Screenshot](Resources/images/game-screenshot.png)
 
 # My SplashKit Game
 
