@@ -1,3 +1,5 @@
+![Game Screenshot](images/game.png)
+
 # My SplashKit Game
 
 This is a simple shooting game made using SplashKit and C#.
